@@ -41,3 +41,4 @@ Use `python test.py --help` for all options
 ```
 python deblur_image.py --image_path=path/to/image
 ```
+可能会让图片变绿主要处理的是气体流动问题
